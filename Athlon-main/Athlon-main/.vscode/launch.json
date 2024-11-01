@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GimnasioAthlonApplication<athlon>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.athlon.athlon.GimnasioAthlonApplication",
+            "projectName": "athlon",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
